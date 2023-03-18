@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kii310&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kii310&count_private=true)
+
 <!--
 **kii310/kii310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
