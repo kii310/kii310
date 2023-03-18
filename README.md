@@ -1,4 +1,4 @@
-### Hi there 👋
+### :clinking_glasses:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kii310&custom_title=nyan🐈&count_private=true&show_icons=true&hide=stars&hide_border=true&theme=tokyonight)
 
