@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 :cat2: :cat2: :cat2: <br>
-learning TypeScript
+learning TypeScript <br>
+love functional programming
